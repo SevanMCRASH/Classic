@@ -1,0 +1,4 @@
+﻿  client.cpp
+c:\users\sevan\desktop\c++ projects\projectrecursive\projectrecursive\client.cpp(162): warning C4715: 'caluclater::reverseDigits': not all control paths return a value
+  ProjectRecursive.vcxproj -> C:\Users\sevan\Desktop\C++ projects\ProjectRecursive\Debug\ProjectRecursive.exe
+  ProjectRecursive.vcxproj -> C:\Users\sevan\Desktop\C++ projects\ProjectRecursive\Debug\ProjectRecursive.pdb (Partial PDB)

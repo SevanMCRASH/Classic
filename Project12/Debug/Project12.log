@@ -1,6 +1,0 @@
-﻿  Main.cpp
-  Integerset.cpp
-  Generating Code...
-c:\users\sevan\desktop\c++ projects\project12\project12\integerset.cpp(97): warning C4715: 'Integerset::UnionOfSets': not all control paths return a value
-  Project12.vcxproj -> C:\Users\sevan\Desktop\C++ projects\Project12\Debug\Project12.exe
-  Project12.vcxproj -> C:\Users\sevan\Desktop\C++ projects\Project12\Debug\Project12.pdb (Partial PDB)

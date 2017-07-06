@@ -1,0 +1,11 @@
+﻿  Boarde.cpp
+c:\users\sevan\desktop\c++ projects\projectqueen\projectqueen\boarde.cpp(80): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\c++ projects\projectqueen\projectqueen\boarde.cpp(87): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\c++ projects\projectqueen\projectqueen\boarde.cpp(94): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\c++ projects\projectqueen\projectqueen\boarde.cpp(101): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\c++ projects\projectqueen\projectqueen\boarde.cpp(108): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\c++ projects\projectqueen\projectqueen\boarde.cpp(115): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\c++ projects\projectqueen\projectqueen\boarde.cpp(122): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\c++ projects\projectqueen\projectqueen\boarde.cpp(129): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  ProjectQueen.vcxproj -> C:\Users\sevan\Desktop\C++ projects\ProjectQueen\x64\Debug\ProjectQueen.exe
+  ProjectQueen.vcxproj -> C:\Users\sevan\Desktop\C++ projects\ProjectQueen\x64\Debug\ProjectQueen.pdb (Partial PDB)

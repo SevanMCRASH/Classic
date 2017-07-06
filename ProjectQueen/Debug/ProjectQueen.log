@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\sevan\desktop\projectqueen\projectqueen\queen.h(6): error C2504: 'Boarde': base class undefined
+  Boarde.cpp
+c:\users\sevan\desktop\projectqueen\projectqueen\queen.h(6): error C2504: 'Boarde': base class undefined
+c:\users\sevan\desktop\projectqueen\projectqueen\boarde.cpp(78): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\projectqueen\projectqueen\boarde.cpp(85): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\projectqueen\projectqueen\boarde.cpp(92): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\projectqueen\projectqueen\boarde.cpp(99): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\projectqueen\projectqueen\boarde.cpp(106): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\projectqueen\projectqueen\boarde.cpp(113): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\projectqueen\projectqueen\boarde.cpp(120): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sevan\desktop\projectqueen\projectqueen\boarde.cpp(127): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating Code...
